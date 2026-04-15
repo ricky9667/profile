@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Ricky Hu
+  site: 'https://ricky-hu.com/'
   base: '/'
   trailingSlash: false
 
@@ -9,22 +9,22 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: Ricky Hu
+    template: '%s — Ricky Hu'
+  description: "\U0001F680 Ricky Hu's portfolio, resume, blog, and cool stuff."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: Ricky Hu
     images:
-      - url: '~/assets/images/default.png'
-        width: 1200
-        height: 628
+      - url: '~/assets/images/logo.png'
+        width: 1024
+        height: 1024
     type: website
   twitter:
-    handle: '@arthelokyo'
-    site: '@arthelokyo'
+    handle: '@ricky9667'
+    site: '@ricky9667'
     cardType: summary_large_image
 
 i18n:
