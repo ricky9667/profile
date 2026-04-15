@@ -6,6 +6,8 @@ export const headerData = {
 };
 
 export const footerData = {
+  links: [],
+  secondaryLinks: [],
   socialLinks: [
     { ariaLabel: 'RSS', icon: 'tabler:coin', href: 'https://coff.ee/ricky9667' },
     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/ricky_hu_0110' },
